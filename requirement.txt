@@ -1,0 +1,12 @@
+opencv-python
+mediapipe
+numpy
+pyautogui
+speechrecognition
+pyttsx3
+pyperclip
+requests
+python-dotenv
+psutil
+customtkinter
+pypiwin32; platform_system=="Windows"
