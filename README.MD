@@ -144,9 +144,6 @@ Head-Mouse/
 ├── requirements.txt
 ├── README.md
 ├── .env.example
-├── assets/
-│   ├── screenshots/
-│   └── diagrams/
 
 ====================================================================================================================
 
@@ -157,5 +154,6 @@ This project is developed as a functional prototype and demonstrates real-time h
 ====================================================================================================================
 
 🏁 Conclusion
+
 
 Head Mouse demonstrates how vision-based and voice-based interaction can replace traditional input devices and make computer usage more accessible, inclusive, and user-friendly. The project showcases a practical and scalable assistive technology solution with strong potential for future expansion.
