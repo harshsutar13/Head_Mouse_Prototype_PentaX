@@ -1,4 +1,4 @@
-#🖱️ Head Mouse – A Vision-Based Hands-Free Interaction System
+# Head Mouse – A Vision-Based Hands-Free Interaction System
 📌 Overview
 
 Head Mouse is a vision-based hands-free computer interaction system that allows users to control a computer without using traditional input devices such as a mouse or keyboard. The system uses eye movements for cursor control, eye blinks for mouse click operations, and voice commands for typing and basic system actions. The project is developed as a working desktop prototype using a webcam and microphone.
